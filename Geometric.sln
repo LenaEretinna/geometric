@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometric", "Geometric\Geometric.csproj", "{F136055D-4CFE-4D4F-A760-4DFC0BF934DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircleTest", "AreaCircleTest\AreaCircleTest.csproj", "{AAC5A99E-7F09-4918-AC94-D53A71CECF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F136055D-4CFE-4D4F-A760-4DFC0BF934DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F136055D-4CFE-4D4F-A760-4DFC0BF934DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F136055D-4CFE-4D4F-A760-4DFC0BF934DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F136055D-4CFE-4D4F-A760-4DFC0BF934DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC5A99E-7F09-4918-AC94-D53A71CECF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC5A99E-7F09-4918-AC94-D53A71CECF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC5A99E-7F09-4918-AC94-D53A71CECF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5A99E-7F09-4918-AC94-D53A71CECF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEEBE89-5B88-43C9-8F08-E0FD1F34ED69}
+	EndGlobalSection
+EndGlobal
